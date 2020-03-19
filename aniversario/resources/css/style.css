@@ -163,6 +163,9 @@ colors: #4622e6
     width:500px;
     margin:auto !important;
 }
+  .slick-track{
+    height:315px;
+  }
 
 .slick-dots{
   display:flex !important;
